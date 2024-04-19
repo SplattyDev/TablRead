@@ -6,6 +6,7 @@ An iOS shortcut to access your school timetable with a tap.
 
 ## Features:
 - English and Italian dictionary support
+- Automated setup for schools
 - Know what the next hour's class will be (Beta)
 - Know today's classes
 - Know tomorrow's classes
