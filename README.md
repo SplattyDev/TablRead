@@ -4,7 +4,7 @@
 
 An iOS shortcut to access your school timetable with a tap.
 
-# Features:
+## Features:
 - English and Italian dictionary support
 - Know what the next hour's class will be (Beta)
 - Know today's classes
@@ -12,10 +12,10 @@ An iOS shortcut to access your school timetable with a tap.
 - Know all classes in the week
 - Show a picture of the timetable
 
-# Available languages (Last updated: 19/04/2024):
+## Available languages (Last updated: 19/04/2024):
 - Italian 🇮🇹
 
-# TODO:
+### TODO:
 - Add English (language) support
 - Fix bugs
 - Redesign the UI
