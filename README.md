@@ -12,9 +12,11 @@ An iOS shortcut to access your school timetable with a tap.
 - Know all classes in the week
 - Show a picture of the timetable
 
-## Available languages (Last updated: 19/04/2024):
+## Available languages (Last updated: 19/04/2024)
 - Italian 🇮🇹
 
+How to download
+[Just... click here] (https://www.icloud.com/shortcuts/9b782dfbf7bc43e29cd6f78687da779f)
 ### TODO:
 - Add English (language) support
 - Fix bugs
