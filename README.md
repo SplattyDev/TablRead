@@ -1,4 +1,7 @@
 # TablRead
+
+![alt text]([https://github.com/SplattyDev/TablRead/blob/main/Assets/IMG_0722.PNG?raw=true])
+
 An iOS shortcut to access your school timetable with a tap.
 
 # Features:
