@@ -20,6 +20,6 @@ An iOS shortcut to access your school timetable with a tap.
 [Just... click here](https://www.icloud.com/shortcuts/9b782dfbf7bc43e29cd6f78687da779f)
 ### TODO:
 - Add English (language) support
-- Fix bugs
+- Fix setup bugs
 - Redesign the UI
 - Add full support for Apple Watch
