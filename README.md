@@ -15,7 +15,10 @@ An iOS shortcut to access your school timetable with a tap.
 
 ## Available languages (Last updated: 19/04/2024)
 - Italian 🇮🇹
-  
+
+## How to install
+Check releases page
+
 ## TODO:
 - Add English (language) support
 - Fix setup bugs
