@@ -16,11 +16,11 @@ An iOS shortcut to access your school timetable with a tap.
 ## Available languages (Last updated: 19/04/2024)
 - Italian 🇮🇹
 
-## How to install
-Check releases page
+## Downloads
+- [Releases page] (https://github.com/SplattyDev/TablRead/releases)
+- [Shortcuts Central] (https://shortcuts.ispazio.net/tablread/)
 
 ## TODO:
 - Add English (language) support
-- Fix setup bugs
 - Redesign the UI
 - Add full support for Apple Watch
