@@ -17,8 +17,8 @@ An iOS shortcut to access your school timetable with a tap.
 - Italian 🇮🇹
 
 ## Downloads
-- [Releases page] (https://github.com/SplattyDev/TablRead/releases)
-- [Shortcuts Central] (https://shortcuts.ispazio.net/tablread/)
+- [Releases page](https://github.com/SplattyDev/TablRead/releases)
+- [Shortcuts Central](https://shortcuts.ispazio.net/tablread/)
 
 ## TODO:
 - Add English (language) support
