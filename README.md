@@ -4,6 +4,10 @@
 
 An iOS shortcut to access your school timetable with a tap.
 
+## Requirements
+### - SCLibrary ([Download](https://shortcuts.ispazio.net/sclibrary/))
+Required to read and write data. If not present, you will be prompted to download it from the Shortcuts Central website.
+
 ## Features:
 - English and Italian dictionary support
 - Automated setup for schools
@@ -12,6 +16,7 @@ An iOS shortcut to access your school timetable with a tap.
 - Know tomorrow's classes
 - Know all classes in the week
 - Show a picture of the timetable
+- OTA updating system
 
 ## Available languages (Last updated: 19/04/2024)
 - Italian 🇮🇹
