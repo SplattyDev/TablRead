@@ -18,14 +18,13 @@ Required to read and write data. If not present, you will be prompted to downloa
 - Show a picture of the timetable
 - OTA updating system
 
-## Available languages (Last updated: 19/04/2024)
+## Available languages (Last updated: 26/10/2024)
 - Italian 🇮🇹
+- English 🇺🇸
 
 ## Downloads
 - [Releases page](https://github.com/SplattyDev/TablRead/releases)
 - [Shortcuts Central](https://shortcuts.ispazio.net/tablread/)
 
 ## TODO:
-- Add English (language) support
-- Redesign the UI
 - Add full support for Apple Watch
