@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/SplattyDev/TablRead/blob/main/Assets/IMG_0722.PNG?raw=true)
 
-An iOS shortcut to access your school timetable with a tap.
+An iOS shortcut to access your school timetable with a tap. Coded in collaboration with iSpazio's Shortcut Central team.
 
 ## Requirements
 ### - SCLibrary ([Download](https://shortcuts.ispazio.net/sclibrary/))
