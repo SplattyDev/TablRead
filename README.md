@@ -28,3 +28,5 @@ Required to read and write data. If not present, you will be prompted to downloa
 
 ## TODO:
 - Add full support for Apple Watch
+- Add proper support for Siri control
+- Fix HTML Setup menu's bugs
